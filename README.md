@@ -11,7 +11,7 @@ Section 2:
 
 Section 3 
 a)	Sonar lint  
-b)	Final Output Snapshot 
+b)	Final Output Snapshot: https://github.com/rajeskumar90/Rajesh_TIAA_Interview/tree/master/src/main/resources
 c)	Junit Coverage Snapshot
 
 
